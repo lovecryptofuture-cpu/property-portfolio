@@ -61,8 +61,21 @@ So when you set up a public GitHub repo, the only thing on the internet is the e
 ## Using the app
 
 - **Tap any number** to edit it. Auto-saves on blur.
-- **Settings** (top right gear icon) → Export to back up, Import to restore, Clear all to wipe.
+- **Three quick tiles on the dashboard:**
+  - **Expenses** — log maintenance, rates, insurance, etc. Filter by financial year. Export to CSV for your accountant.
+  - **Net worth history** — tap "Save snapshot" once a month to build a record of how the portfolio grows over time.
+  - **Reminders** — track insurance renewals, lease expiries, rate reviews, tax dates. Shows overdue items with a red badge.
+- **Settings** (top right gear icon) → Export full backup, Import data, Clear all.
 - **Add / edit properties** via the + buttons and the small gear icon on each property card.
+
+## Expense tracking & your accountant
+
+Built specifically for handing data to your accountant at year end:
+
+- Categories cover the common ones (Maintenance, Repairs, Rates, Insurance, Strata, Land tax, etc.)
+- Filter by **financial year** (Jul–Jun) or calendar year
+- Summary view groups by category and by property
+- One-tap **CSV export** opens cleanly in Excel/Numbers — date, property, category, amount, note. Email it to your accountant.
 
 ## Backup recommendation
 

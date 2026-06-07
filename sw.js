@@ -1,4 +1,4 @@
-const VERSION = 'property-portfolio-v3';
+const VERSION = 'property-portfolio-v4';
 const ASSETS = [
   './',
   './index.html',
